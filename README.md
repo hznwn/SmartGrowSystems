@@ -1,4 +1,4 @@
-The files contained within this project were created for a student electronic project formed within the "Project in Electronics" course at Uppsala University. The course is a part of the "Master's Programme in Electrical Engineering" and took place between the fall of 2022 and spring 2023.
+The files contained within this project were created for a student electronic project formed within the "Project in Electronics" course at Uppsala University. The course is a part of the "Master's Programme in Electrical Engineering" and took place between the fall of 2023 and spring 2024.
 
 Würth Electronik donated all the horticulture parts involved - LEDs and Power Modules (MagI³C Series). The rest of the parts were purchased by Uppsala University. More details about the course and program can be found below.
 
